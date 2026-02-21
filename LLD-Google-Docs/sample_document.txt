@@ -1,0 +1,3 @@
+Hello, this is a sample document.
+[Image: path/to/image.png]
+This document demonstrates the Liskov Substitution Principle.
